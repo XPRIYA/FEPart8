@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Not Cherry2 
+=======
+Cherry1
+>>>>>>> 47c36d7... Cherry
